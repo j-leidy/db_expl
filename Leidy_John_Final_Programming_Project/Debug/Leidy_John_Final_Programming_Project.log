@@ -1,4 +1,23 @@
-﻿  Menus.cpp
-D:\database_stuff\Database_Project_Code\Leidy_John_Final_Programming_Project\Leidy_John_Final_Programming_Project\Menus.cpp(36,27): warning C4101: 'e': unreferenced local variable
-D:\database_stuff\Database_Project_Code\Leidy_John_Final_Programming_Project\Leidy_John_Final_Programming_Project\Menus.cpp(39,24): warning C4101: 'e': unreferenced local variable
-  Leidy_John_Final_Programming_Project.vcxproj -> D:\database_stuff\Database_Project_Code\Leidy_John_Final_Programming_Project\Debug\Leidy_John_Final_Programming_Project.exe
+﻿  Db_Functions.cpp
+C:\Users\ps5re\Documents\Scripting\c++\Database_\db_expl\Leidy_John_Final_Programming_Project\Db_Functions.cpp(102,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ps5re\Documents\Scripting\c++\Database_\db_expl\Leidy_John_Final_Programming_Project\Db_Functions.cpp(104,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ps5re\Documents\Scripting\c++\Database_\db_expl\Leidy_John_Final_Programming_Project\Db_Functions.cpp(125,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ps5re\Documents\Scripting\c++\Database_\db_expl\Leidy_John_Final_Programming_Project\Db_Functions.cpp(42,16): warning C4101: 'stmt': unreferenced local variable
+C:\Users\ps5re\Documents\Scripting\c++\Database_\db_expl\Leidy_John_Final_Programming_Project\Db_Functions.cpp(87,30): warning C4101: 'e': unreferenced local variable
+C:\Users\ps5re\Documents\Scripting\c++\Database_\db_expl\Leidy_John_Final_Programming_Project\Db_Functions.cpp(90,26): warning C4101: 'e': unreferenced local variable
+  Helpers.cpp
+C:\Users\ps5re\Documents\Scripting\c++\Database_\db_expl\Leidy_John_Final_Programming_Project\Helpers.cpp(122,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ps5re\Documents\Scripting\c++\Database_\db_expl\Leidy_John_Final_Programming_Project\Helpers.cpp(130,28): warning C4101: 'e': unreferenced local variable
+C:\Users\ps5re\Documents\Scripting\c++\Database_\db_expl\Leidy_John_Final_Programming_Project\Helpers.cpp(133,24): warning C4101: 'e': unreferenced local variable
+  Sqlite3_Db_Explorer.cpp
+  Menus.cpp
+C:\Users\ps5re\Documents\Scripting\c++\Database_\db_expl\Leidy_John_Final_Programming_Project\Menus.cpp(36,27): warning C4101: 'e': unreferenced local variable
+C:\Users\ps5re\Documents\Scripting\c++\Database_\db_expl\Leidy_John_Final_Programming_Project\Menus.cpp(39,24): warning C4101: 'e': unreferenced local variable
+  Printers.cpp
+C:\Users\ps5re\Documents\Scripting\c++\Database_\db_expl\Leidy_John_Final_Programming_Project\Printers.cpp(132,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  shell.c
+  sqlite3.c
+  Generating Code...
+LINK : warning LNK4067: ambiguous entry point; selected 'mainCRTStartup'
+  Leidy_John_Final_Programming_Project.vcxproj -> C:\Users\ps5re\Documents\Scripting\c++\Database_\db_expl\Debug\Leidy_John_Final_Programming_Project.exe

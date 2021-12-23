@@ -35,6 +35,7 @@ using namespace std;
 
 int main()
 {
+	int test_variable_for_push = 0;
 	sqlite3* mydb;
 	vector<string> tables;
 	int s_num;
