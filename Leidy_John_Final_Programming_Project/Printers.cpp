@@ -10,6 +10,9 @@
 
 using namespace std;
 
+void adding_test_push() {
+
+}
 
 void warning() {
 	cout << setw(25) << " " << "<*****************************************************************>" << "\n";

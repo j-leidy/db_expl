@@ -13,6 +13,7 @@
 
 using namespace std;
 
+void adding_test_push();
 void warning();
 void info();
 void print_column_names(string x, int col_num, int space_num, string table_name);
